@@ -144,4 +144,4 @@
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=devgcereno&icon=5&color=5)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=devgcereno&icon=5&color=14B8A6)](https://visitcount.itsvg.in)
