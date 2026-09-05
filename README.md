@@ -1,17 +1,16 @@
----
-
 ## 👨‍💻 About Me
 
 * 🔭 Building resilient, secure web applications and hardening cloud infrastructure against modern threat vectors.
 * 💡 Passionate about backend security architecture, system design, data privacy, and the intersection of code and cyber law.
 * 🌱 Always studying evolving security frameworks, compliance standards, and advanced defensive engineering.
-* ⚡ Fun fact: When I'm not auditing code or setting up self-hosted homelabs, I'm analyzing the legal and technical intersections of digital sovereignty!
+* ⚡ Fun fact: When I am not auditing code or setting up self-hosted homelabs, I am analyzing the legal and technical intersections of digital sovereignty!
 
 ---
 
 ## 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cerenoglenn) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/glenncereno)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/glenncereno) 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%231C2D42.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/devgcereno)
 
 ---
 
