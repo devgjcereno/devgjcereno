@@ -22,7 +22,7 @@
 ## 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/cerenoglenn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/glenncereno)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%231C2D42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/devgcereno)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%231C2D42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/devgjcereno)
 
 ---
 
